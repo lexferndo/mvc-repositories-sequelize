@@ -1,0 +1,9 @@
+{
+    "dev": {
+        "user":"postgres",
+        "password":"password",
+        "host":"localhost",
+        "database":"movies-database",
+        "dialect":"postgresql"   
+    }
+}
